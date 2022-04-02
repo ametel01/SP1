@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LayoutManager
+comment1.params=panel
+comment1.target=void\ layout(Panel)
+comment2.params=panel
+comment2.target=int\ getPreferredWidth(Panel)
+comment3.params=panel
+comment3.target=int\ getPreferredHeight(Panel)
+numComments=4
